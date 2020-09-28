@@ -1,10 +1,10 @@
-﻿using System;
+﻿using N_tier.Core.Models;
 using System.Collections.Generic;
-using System.Text;
 
 namespace N_tier.Application.ProductExpiration
 {
-    interface Interface1
+    public interface IProductExpirationTime
     {
+        public IEnumerable<Product> GetTimeLeft();
     }
 }
