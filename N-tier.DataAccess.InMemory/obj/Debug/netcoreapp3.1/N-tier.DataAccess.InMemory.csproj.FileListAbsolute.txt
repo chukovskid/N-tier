@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.InMemory\bin\Debug\netcoreapp3.1\N-tier.Core.dll
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.InMemory\obj\Debug\netcoreapp3.1\N-tier.DataAccess.InMemory.csprojAssemblyReference.cache
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.InMemory\obj\Debug\netcoreapp3.1\N-tier.DataAccess.InMemory.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.InMemory\obj\Debug\netcoreapp3.1\N-tier.DataAccess.InMemory.AssemblyInfo.cs
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.InMemory\bin\Debug\netcoreapp3.1\N-tier.DataAccess.InMemory.deps.json
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.InMemory\bin\Debug\netcoreapp3.1\N-tier.DataAccess.InMemory.dll
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.InMemory\bin\Debug\netcoreapp3.1\N-tier.DataAccess.InMemory.pdb
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.InMemory\bin\Debug\netcoreapp3.1\N-tier.Core.pdb
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.InMemory\obj\Debug\netcoreapp3.1\N-tier.DataAccess.InMemory.csproj.CopyComplete
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.InMemory\obj\Debug\netcoreapp3.1\N-tier.DataAccess.InMemory.dll
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.InMemory\obj\Debug\netcoreapp3.1\N-tier.DataAccess.InMemory.pdb

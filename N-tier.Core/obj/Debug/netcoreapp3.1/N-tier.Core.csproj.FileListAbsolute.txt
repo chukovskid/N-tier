@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\N-tier\N-tier.Core\bin\Debug\netcoreapp3.1\N-tier.Core.deps.json
+C:\Users\User\source\repos\N-tier\N-tier.Core\bin\Debug\netcoreapp3.1\N-tier.Core.dll
+C:\Users\User\source\repos\N-tier\N-tier.Core\bin\Debug\netcoreapp3.1\N-tier.Core.pdb
+C:\Users\User\source\repos\N-tier\N-tier.Core\obj\Debug\netcoreapp3.1\N-tier.Core.csprojAssemblyReference.cache
+C:\Users\User\source\repos\N-tier\N-tier.Core\obj\Debug\netcoreapp3.1\N-tier.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\N-tier\N-tier.Core\obj\Debug\netcoreapp3.1\N-tier.Core.AssemblyInfo.cs
+C:\Users\User\source\repos\N-tier\N-tier.Core\obj\Debug\netcoreapp3.1\N-tier.Core.dll
+C:\Users\User\source\repos\N-tier\N-tier.Core\obj\Debug\netcoreapp3.1\N-tier.Core.pdb

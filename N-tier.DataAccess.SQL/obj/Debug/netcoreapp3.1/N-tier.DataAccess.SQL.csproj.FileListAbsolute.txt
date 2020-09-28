@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\bin\Debug\netcoreapp3.1\N-tier.DataAccess.SQL.deps.json
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\bin\Debug\netcoreapp3.1\N-tier.DataAccess.SQL.dll
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\bin\Debug\netcoreapp3.1\N-tier.DataAccess.SQL.pdb
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\obj\Debug\netcoreapp3.1\N-tier.DataAccess.SQL.csprojAssemblyReference.cache
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\obj\Debug\netcoreapp3.1\N-tier.DataAccess.SQL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\obj\Debug\netcoreapp3.1\N-tier.DataAccess.SQL.AssemblyInfo.cs
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\obj\Debug\netcoreapp3.1\N-tier.DataAccess.SQL.dll
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\obj\Debug\netcoreapp3.1\N-tier.DataAccess.SQL.pdb
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\bin\Debug\netcoreapp3.1\N-tier.Core.dll
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\bin\Debug\netcoreapp3.1\N-tier.Core.pdb
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\obj\Debug\netcoreapp3.1\N-tier.DataAccess.SQL.csproj.CopyComplete
