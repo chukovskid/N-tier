@@ -9,3 +9,5 @@ C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\obj\Debug\netcoreapp3.1\
 C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\bin\Debug\netcoreapp3.1\N-tier.Core.dll
 C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\bin\Debug\netcoreapp3.1\N-tier.Core.pdb
 C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\obj\Debug\netcoreapp3.1\N-tier.DataAccess.SQL.csproj.CopyComplete
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\bin\Debug\netcoreapp3.1\N-tier.DataAccess.SQL.runtimeconfig.json
+C:\Users\User\source\repos\N-tier\N-tier.DataAccess.SQL\bin\Debug\netcoreapp3.1\N-tier.DataAccess.SQL.runtimeconfig.dev.json
